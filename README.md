@@ -40,3 +40,35 @@ Se dau două siruri ordonate crescător A si B si se consideră că A are destul
 îl adăugati pe B în A astfel încât vectorul să rămână tot ordonat. <br /> 
 Exercitiul 3.3. <br />
 Să se optimizeze procedura de sortare rapidă, folosind următoarea tehnică: subşirurile de dimensiune <= 11 elemente se sortează cu inserţia directă. <br />
+<br /> 
+TEMA 4 <br /> 
+Exercitiul 1 <br /> 
+O coadă cu priorităti este o coadă în care elementele au, pe lângă cheie şi o prioritate. Vom presupune că cea mai înaltă prioritate este <br /> 
+1, urmată de 2 etc. Ordinea liniară este dată de regulile: <br /> 
+• elementele cu aceeaşi prioritate sunt extrase (şi procesate) în ordinea intrării; <br /> 
+• toate elementele cu prioritate i se află înaintea celor cu prioritate i+1  <br /> 
+Implementati operatiile de inserare si de stergere pentru acest tip de structură. <br /> 
+Exercitiul 3. <br />
+Considerăm următoarea problemă: ni se dă o suprafată circulară cu un număr n de pini pe margini, împreună cu o listă de perechi de pini ce trebuie conectati <br />
+cu fire metalice. Problema cere să determinati în timp O(n) dacă pentru o configuratie ca mai sus, pinii pereche pot fi conectati, fără ca perechile <br />
+să se intersecteze. La intrare se vor citi:<br />
+• n - numărul de pini <br />
+• pereche[n], un vector de n componente, unde pereche[i] == pereche[j], 1 <= i < j <=n dacă pinii i s, i j trebuie conectati. <br />
+<br /> 
+TEMA 5 <br /> 
+Exercitiul 1. <br />
+Parcurgeti cheile unui arbore binar de cautare conform urmatoarelor strategii: <br />
+1. (0.5p) RSD (pre-ordine)
+2. (0.5p) SRD (in-ordine)
+3. (0.5p) SDR (post-ordine) 
+Exercitiul 2. <br />
+Implementati un program pentru stergerea unui nod cu o cheie x data dintr-un arbore binar de cautare (pastrand proprietatea de arbore binar de cautare). <br />
+Exercitiul 3. <br />
+Dat un arbore binar de cautare si doi intregi k1 si k2, sa se afiseze toate cheile x din arbore cu proprietatea k1 <= x <= k2. <br />
+Exercitiul 4. <br />
+Să se ordoneze descrescător un şir de cuvinte date de la tastatură, folosind un arbore binar de căutare. <br />
+Exercitiul 5. <br />Dat un arbore binar de cautare si doua noduri oarecare p si q, sa se gaseasca cel mai apropiat stramos comun (LCA - Lowest Common Ancestor)<br />
+<br />
+TEMA 6 <br />
+Exercitiul 1.1. <br />
+Scrieţi un algoritm care să construiască un arbore Huffman pentru un alfabet cu ponderi dat, arbore reprezentat în aşa fel încat să poată fi folosit atât la <br /> codificare, cât şi la decodificare. 
