@@ -71,4 +71,4 @@ Exercitiul 5. <br />Dat un arbore binar de cautare si doua noduri oarecare p si 
 <br />
 TEMA 6 <br />
 Exercitiul 1.1. <br />
-Scrieţi un algoritm care să construiască un arbore Huffman pentru un alfabet cu ponderi dat, arbore reprezentat în aşa fel încat să poată fi folosit atât la <br /> codificare, cât şi la decodificare. 
+Scrieţi un algoritm care să construiască un arbore Huffman pentru un alfabet cu ponderi dat, arbore reprezentat în aşa fel încat să poată fi folosit atât la <br /> codificare, cat şi la decodificare. 
