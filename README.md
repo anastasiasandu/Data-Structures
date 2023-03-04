@@ -17,9 +17,9 @@ Scrieti o metodă de sortare a unui sir de string-uri astfel încât toate anagr
 Exercitiul 3.2.  <br /> 
 Un circ include în programul său un număr în care acrobat, ii stau unul deasupra celuilalt pe umerii anteriorului. Din motive practice, fiecare persoană 
 trebuie să fie mai scundă si mai usoară decât persoana de dedesubt. Fiind date greutătile si înăltimile persoanelor din circ,
-să se scrie un algoritm pentru a calcula cea mai lungă secventă posibilă dintr-un astfel de turn uman. 
+să se scrie un algoritm pentru a calcula cea mai lungă secventă posibilă dintr-un astfel de turn uman.  <br /> 
 Exercitiul 3.3. <br /> 
-Se dă un sir ordonat crescător cu n elemente care a fost rotit de un număr necunoscut de ori. Să se scrie un algoritm de complexitate O(logn) pentru  <br /> 
+Se dă un sir ordonat crescător cu n elemente care a fost rotit de un număr necunoscut de ori. Să se scrie un algoritm de complexitate O(logn) pentru  
 căutarea unui număr în vector.  
 Exercitiul 3.4. <br /> 
 Se dă un sir ordonat de string-uri sparse. Să se scrie un algoritm eficient pentru căutarea unui sir dat. <br /> 
